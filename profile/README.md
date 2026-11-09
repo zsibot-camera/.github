@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zsibot-camera/.github/main/assets/banner.svg" alt="智身科技 · 相机模块" width="100%">
+  <img src="https://raw.githubusercontent.com/zsibot-camera/.github/main/assets/logo.png" alt="智身科技 GENISOM AI" width="220">
 </p>
 
 # 欢迎来到智身科技相机模块 👋
