@@ -17,7 +17,8 @@
 
 | 仓库 | 说明 |
 | --- | --- |
-| _整理中_ | 相机驱动与 SDK 正在陆续开源 |
+| [nvidia-jetson-camera-drivers](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers) | NVIDIA Jetson 相机驱动与 SDK（Thor GMSL 双目 OG02D10） |
+| [d-robotics-camera-drivers](https://github.com/zsibot-camera/d-robotics-camera-drivers) | D-Robotics RDK S600 / S100P 相机驱动与 SDK（整理中） |
 
 ## 联系我们
 
