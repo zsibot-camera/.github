@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/zsibot-camera/.github/main/assets/banner.png" alt="智身科技 GENISOM AI" width="100%">
 </p>
 
-# 欢迎来到智身科技相机模块 👋
+# 欢迎来到智身科技-视觉传感器 👋
 
 智身科技（GENISOM AI）专注于智能机器人系统的研发。相机模块团队负责机器人视觉感知硬件的驱动、标定与配套 SDK，覆盖 NVIDIA Jetson / Orin、RDK S600 / S100P 等计算平台，以及 MIPI CSI、GMSL2、R-LinC 等相机接口。
 
