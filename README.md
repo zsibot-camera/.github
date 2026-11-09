@@ -4,3 +4,5 @@
 
 - 组织展示页：`profile/README.md`
 - 官方 Logo：`assets/logo.png`
+- 方形头像：`assets/avatar.png`
+- 全宽横幅：`assets/banner.png`
