@@ -22,6 +22,7 @@
 | [nvidia-jetson-camera-drivers](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers) | NVIDIA Jetson 相机驱动、深度 SDK、ROS2 与 ZSViewer 工具交付（Thor GMSL 双目 OG02D10） |
 | [d-robotics-camera-drivers](https://github.com/zsibot-camera/d-robotics-camera-drivers) | D-Robotics RDK S600 / S100P 相机驱动、SDK 与 ZSViewer 工具交付（整理中） |
 | [ZSCamera_sdk](https://github.com/zsibot-camera/ZSCamera_sdk) | 统一相机与双目深度 SDK 二进制交付：C++ 头文件、预编译库、模型、协议/标定文档（不含源码） |
+| [ZSViewer-delivery](https://github.com/zsibot-camera/ZSViewer-delivery) | ZSViewer 上位机工具独立交付仓库：Linux / Windows 安装包、AI-INSTALL.md 与 install.sh（不含源码） |
 
 ## 交付包
 
