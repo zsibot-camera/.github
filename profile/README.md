@@ -26,9 +26,10 @@
 
 ## 交付包
 
-- **Thor 深度 SDK 0.1.0**：[下载](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers/releases/tag/thor-depth-sdk-v0.1.0)
-- **ZSViewer 2.1.4**（Linux / Windows 安装包）：[下载](https://github.com/zsibot-camera/ZSViewer-delivery/releases/tag/v2.1.4)
-- **Thor 驱动 + SDK + ROS2 完整包**：[交付包](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers/tree/main/Jetson%20AGX%20Thor%20Devkit/GMSL/双目og02d10)
+- **ZSCamera SDK 1.0.1**（统一 SDK，覆盖 RV1126B / Orin NX / AGX Thor；dev / runtime / tools）：[下载](https://github.com/zsibot-camera/ZSCamera_sdk/releases/tag/v1.0.1)
+- **ZSViewer 2.1.4**（Linux / Windows 安装包，最低兼容 ZSCamera SDK 1.0.1）：[下载](https://github.com/zsibot-camera/ZSViewer-delivery/releases/tag/v2.1.4)
+- **Thor 驱动 + ROS2 完整包**：[交付包](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers/tree/main/Jetson%20AGX%20Thor%20Devkit/GMSL/双目og02d10)
+- **Thor 深度 SDK 0.1.0**（旧版，建议迁移到 ZSCamera SDK 1.0.1）：[下载](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers/releases/tag/thor-depth-sdk-v0.1.0)
 - 客户侧 AI 助手：直接阅读 [README-AI.md](https://github.com/zsibot-camera/nvidia-jetson-camera-drivers/blob/main/README-AI.md)，按里面的命令校验并一键安装。
 
 ## 联系我们
